@@ -2,11 +2,5 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 
-*.csv
-*.xlsx
-
-models/
-*.pkl
-
 .env
 .vscode/
